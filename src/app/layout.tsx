@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Marco Paiva | Full Stack Developer",
-  description: "I build fast, modern websites that help businesses attract more customers.",
+  title: "Marco Paiva | Cloud & Platform Engineer",
+  description: "Cloud, Kubernetes, Azure, Observability, DevOps",
 };
 
 export default function RootLayout({
